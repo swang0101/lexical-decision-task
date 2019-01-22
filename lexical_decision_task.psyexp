@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="3.0.0b12">
+  <Settings>
+    <Param name="Completed URL" updates="None" val="" valType="str"/>
+    <Param name="Data filename" updates="None" val="u'data/%s_%s_%s' % (expInfo['participant'], expName, expInfo['date'])" valType="code"/>
+    <Param name="Enable Escape" updates="None" val="True" valType="bool"/>
+    <Param name="Experiment info" updates="None" val="{'participant':'', 'session':'001'}" valType="code"/>
+    <Param name="Force stereo" updates="None" val="True" valType="bool"/>
+    <Param name="Full-screen window" updates="None" val="True" valType="bool"/>
+    <Param name="HTML path" updates="None" val="html" valType="str"/>
+    <Param name="Incomplete URL" updates="None" val="" valType="str"/>
+    <Param name="JS libs" updates="None" val="packaged" valType="str"/>
+    <Param name="Monitor" updates="None" val="testMonitor" valType="str"/>
+    <Param name="Save csv file" updates="None" val="False" valType="bool"/>
+    <Param name="Save excel file" updates="None" val="False" valType="bool"/>
+    <Param name="Save log file" updates="None" val="True" valType="bool"/>
+    <Param name="Save psydat file" updates="None" val="True" valType="bool"/>
+    <Param name="Save wide csv file" updates="None" val="True" valType="bool"/>
+    <Param name="Screen" updates="None" val="1" valType="num"/>
+    <Param name="Show info dlg" updates="None" val="True" valType="bool"/>
+    <Param name="Show mouse" updates="None" val="False" valType="bool"/>
+    <Param name="Units" updates="None" val="use prefs" valType="str"/>
+    <Param name="Use version" updates="None" val="" valType="str"/>
+    <Param name="Window size (pixels)" updates="None" val="(1024, 768)" valType="code"/>
+    <Param name="blendMode" updates="None" val="avg" valType="str"/>
+    <Param name="color" updates="None" val="$[0,0,0]" valType="str"/>
+    <Param name="colorSpace" updates="None" val="rgb" valType="str"/>
+    <Param name="expName" updates="None" val="lexical_decision_task" valType="str"/>
+    <Param name="exportHTML" updates="None" val="on Sync" valType="str"/>
+    <Param name="logging level" updates="None" val="exp" valType="code"/>
+  </Settings>
+  <Routines>
+    <Routine name="Instructions">
+      <TextComponent name="instructions">
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+        <Param name="name" updates="None" val="instructions" valType="code"/>
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="text" updates="constant" val="In this task you will be required to judge whether a string of letters is a word or a non-word. Press left arrow key for non-words and right arrow key for words. Please respond as quickly as possible. Press space to continue." valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_1">
+        <Param name="allowedKeys" updates="constant" val="'space'" valType="code"/>
+        <Param name="correctAns" updates="constant" val="" valType="str"/>
+        <Param name="discard previous" updates="constant" val="True" valType="bool"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="name" updates="None" val="key_resp_1" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="store" updates="constant" val="last key" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="False" valType="bool"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Trial">
+      <TextComponent name="fixation">
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+        <Param name="name" updates="None" val="fixation" valType="code"/>
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="1" valType="code"/>
+        <Param name="text" updates="constant" val="+" valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+      </TextComponent>
+      <TextComponent name="text">
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+        <Param name="name" updates="None" val="text" valType="code"/>
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="1" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="text" updates="set every repeat" val="$words" valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+      </TextComponent>
+      <KeyboardComponent name="response">
+        <Param name="allowedKeys" updates="constant" val="'right', 'left'" valType="code"/>
+        <Param name="correctAns" updates="constant" val="$corrAns" valType="str"/>
+        <Param name="discard previous" updates="constant" val="False" valType="bool"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="forceEndRoutine" updates="constant" val="True" valType="bool"/>
+        <Param name="name" updates="None" val="response" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="1" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="store" updates="constant" val="last key" valType="str"/>
+        <Param name="storeCorrect" updates="constant" val="True" valType="bool"/>
+        <Param name="syncScreenRefresh" updates="constant" val="True" valType="bool"/>
+      </KeyboardComponent>
+      <TextComponent name="arrow_keys">
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.05" valType="code"/>
+        <Param name="name" updates="None" val="arrow_keys" valType="code"/>
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, -0.75)" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="" valType="code"/>
+        <Param name="text" updates="constant" val="&lt;- non-words        words -&gt;" valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="End">
+      <TextComponent name="thank_you">
+        <Param name="color" updates="constant" val="white" valType="str"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="" valType="str"/>
+        <Param name="font" updates="constant" val="Arial" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="code"/>
+        <Param name="name" updates="None" val="thank_you" valType="code"/>
+        <Param name="opacity" updates="constant" val="1" valType="code"/>
+        <Param name="ori" updates="constant" val="0" valType="code"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="code"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.0" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="3" valType="code"/>
+        <Param name="text" updates="constant" val="This is the end of the experiment.&amp;#10;&amp;#10;Thank you for your time." valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="code"/>
+      </TextComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="Instructions"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('words', 'way'), ('number_of_letters', 3), ('corrAns', 'right')]), OrderedDict([('words', 'woy'), ('number_of_letters', 3), ('corrAns', 'left')]), OrderedDict([('words', 'and'), ('number_of_letters', 3), ('corrAns', 'right')]), OrderedDict([('words', 'anf'), ('number_of_letters', 3), ('corrAns', 'left')]), OrderedDict([('words', 'new'), ('number_of_letters', 3), ('corrAns', 'right')]), OrderedDict([('words', 'neu'), ('number_of_letters', 3), ('corrAns', 'left')]), OrderedDict([('words', 'for'), ('number_of_letters', 3), ('corrAns', 'right')]), OrderedDict([('words', 'fot'), ('number_of_letters', 3), ('corrAns', 'left')]), OrderedDict([('words', 'out'), ('number_of_letters', 3), ('corrAns', 'right')]), OrderedDict([('words', 'ous'), ('number_of_letters', 3), ('corrAns', 'left')]), OrderedDict([('words', 'want'), ('number_of_letters', 4), ('corrAns', 'right')]), OrderedDict([('words', 'wunt'), ('number_of_letters', 4), ('corrAns', 'left')]), OrderedDict([('words', 'much'), ('number_of_letters', 4), ('corrAns', 'right')]), OrderedDict([('words', 'mech'), ('number_of_letters', 4), ('corrAns', 'left')]), OrderedDict([('words', 'play'), ('number_of_letters', 4), ('corrAns', 'right')]), OrderedDict([('words', 'ptay'), ('number_of_letters', 4), ('corrAns', 'left')]), OrderedDict([('words', 'hour'), ('number_of_letters', 4), ('corrAns', 'right')]), OrderedDict([('words', 'heur'), ('number_of_letters', 4), ('corrAns', 'left')]), OrderedDict([('words', 'line'), ('number_of_letters', 4), ('corrAns', 'right')]), OrderedDict([('words', 'lipe'), ('number_of_letters', 4), ('corrAns', 'left')]), OrderedDict([('words', 'their'), ('number_of_letters', 5), ('corrAns', 'right')]), OrderedDict([('words', 'theyr'), ('number_of_letters', 5), ('corrAns', 'left')]), OrderedDict([('words', 'about'), ('number_of_letters', 5), ('corrAns', 'right')]), OrderedDict([('words', 'aboot'), ('number_of_letters', 5), ('corrAns', 'left')]), OrderedDict([('words', 'think'), ('number_of_letters', 5), ('corrAns', 'right')]), OrderedDict([('words', 'thenk'), ('number_of_letters', 5), ('corrAns', 'left')]), OrderedDict([('words', 'which'), ('number_of_letters', 5), ('corrAns', 'right')]), OrderedDict([('words', 'whicb'), ('number_of_letters', 5), ('corrAns', 'left')]), OrderedDict([('words', 'could'), ('number_of_letters', 5), ('corrAns', 'right')]), OrderedDict([('words', 'courd'), ('number_of_letters', 5), ('corrAns', 'left')]), OrderedDict([('words', 'should'), ('number_of_letters', 6), ('corrAns', 'right')]), OrderedDict([('words', 'shoule'), ('number_of_letters', 6), ('corrAns', 'left')]), OrderedDict([('words', 'become'), ('number_of_letters', 6), ('corrAns', 'right')]), OrderedDict([('words', 'becone'), ('number_of_letters', 6), ('corrAns', 'left')]), OrderedDict([('words', 'factor'), ('number_of_letters', 6), ('corrAns', 'right')]), OrderedDict([('words', 'fector'), ('number_of_letters', 6), ('corrAns', 'left')]), OrderedDict([('words', 'decade'), ('number_of_letters', 6), ('corrAns', 'right')]), OrderedDict([('words', 'secade'), ('number_of_letters', 6), ('corrAns', 'left')]), OrderedDict([('words', 'system'), ('number_of_letters', 6), ('corrAns', 'right')]), OrderedDict([('words', 'sistem'), ('number_of_letters', 6), ('corrAns', 'left')]), OrderedDict([('words', 'program'), ('number_of_letters', 7), ('corrAns', 'right')]), OrderedDict([('words', 'pregram'), ('number_of_letters', 7), ('corrAns', 'left')]), OrderedDict([('words', 'country'), ('number_of_letters', 7), ('corrAns', 'right')]), OrderedDict([('words', 'countey'), ('number_of_letters', 7), ('corrAns', 'left')]), OrderedDict([('words', 'between'), ('number_of_letters', 7), ('corrAns', 'right')]), OrderedDict([('words', 'bedween'), ('number_of_letters', 7), ('corrAns', 'left')]), OrderedDict([('words', 'company'), ('number_of_letters', 7), ('corrAns', 'right')]), OrderedDict([('words', 'compane'), ('number_of_letters', 7), ('corrAns', 'left')]), OrderedDict([('words', 'believe'), ('number_of_letters', 7), ('corrAns', 'right')]), OrderedDict([('words', 'beliefe'), ('number_of_letters', 7), ('corrAns', 'left')]), OrderedDict([('words', 'business'), ('number_of_letters', 8), ('corrAns', 'right')]), OrderedDict([('words', 'bussness'), ('number_of_letters', 8), ('corrAns', 'left')]), OrderedDict([('words', 'remember'), ('number_of_letters', 8), ('corrAns', 'right')]), OrderedDict([('words', 'rememper'), ('number_of_letters', 8), ('corrAns', 'left')]), OrderedDict([('words', 'question'), ('number_of_letters', 8), ('corrAns', 'right')]), OrderedDict([('words', 'quesdion'), ('number_of_letters', 8), ('corrAns', 'left')]), OrderedDict([('words', 'anything'), ('number_of_letters', 8), ('corrAns', 'right')]), OrderedDict([('words', 'anythink'), ('number_of_letters', 8), ('corrAns', 'left')]), OrderedDict([('words', 'research'), ('number_of_letters', 8), ('corrAns', 'right')]), OrderedDict([('words', 'pesearch'), ('number_of_letters', 8), ('corrAns', 'left')]), OrderedDict([('words', 'different'), ('number_of_letters', 9), ('corrAns', 'right')]), OrderedDict([('words', 'bifferent'), ('number_of_letters', 9), ('corrAns', 'left')]), OrderedDict([('words', 'important'), ('number_of_letters', 9), ('corrAns', 'right')]), OrderedDict([('words', 'importent'), ('number_of_letters', 9), ('corrAns', 'left')]), OrderedDict([('words', 'political'), ('number_of_letters', 9), ('corrAns', 'right')]), OrderedDict([('words', 'pofitical'), ('number_of_letters', 9), ('corrAns', 'left')]), OrderedDict([('words', 'community'), ('number_of_letters', 9), ('corrAns', 'right')]), OrderedDict([('words', 'compunity'), ('number_of_letters', 9), ('corrAns', 'left')]), OrderedDict([('words', 'including'), ('number_of_letters', 9), ('corrAns', 'right')]), OrderedDict([('words', 'incluting'), ('number_of_letters', 9), ('corrAns', 'left')]), OrderedDict([('words', 'everything'), ('number_of_letters', 10), ('corrAns', 'right')]), OrderedDict([('words', 'eferything'), ('number_of_letters', 10), ('corrAns', 'left')]), OrderedDict([('words', 'experience'), ('number_of_letters', 10), ('corrAns', 'right')]), OrderedDict([('words', 'exberience'), ('number_of_letters', 10), ('corrAns', 'left')]), OrderedDict([('words', 'especially'), ('number_of_letters', 10), ('corrAns', 'right')]), OrderedDict([('words', 'especialty'), ('number_of_letters', 10), ('corrAns', 'left')]), OrderedDict([('words', 'technology'), ('number_of_letters', 10), ('corrAns', 'right')]), OrderedDict([('words', 'tochnology'), ('number_of_letters', 10), ('corrAns', 'left')]), OrderedDict([('words', 'population'), ('number_of_letters', 10), ('corrAns', 'right')]), OrderedDict([('words', 'bopulation'), ('number_of_letters', 10), ('corrAns', 'left')])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="experimental_trials.xlsx" valType="str"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="code"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Trial"/>
+    <LoopTerminator name="trials"/>
+    <Routine name="End"/>
+  </Flow>
+</PsychoPy2experiment>
