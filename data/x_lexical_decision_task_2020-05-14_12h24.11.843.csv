@@ -1,0 +1,5 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 6.023, left, 1, 1.0109999999999992, 1, 0, 80, 79, 1, 79, bopulation, 10, left, x, 001, 2020-05-14_12h24.11.843, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.860999999999997, 1, 0, 80, 10, 1, 79, want, 4, right, x, 001, 2020-05-14_12h24.11.843, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.2179999999999964, 1, 0, 80, 1, 1, 79, woy, 3, left, x, 001, 2020-05-14_12h24.11.843, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.546999999999997, 1, 0, 80, 27, 1, 79, whicb, 5, left, x, 001, 2020-05-14_12h24.11.843, lexical_decision_task, 3.0.0b12, 60
