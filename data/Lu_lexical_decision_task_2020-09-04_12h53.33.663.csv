@@ -1,0 +1,15 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 7.89, right, 1, 1.0120000000000005, 1, 0, 80, 62, 1, 79, important, 9, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.8279999999999994, 1, 0, 80, 5, 1, 79, neu, 3, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.2970000000000006, 1, 0, 80, 46, 1, 79, company, 7, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.2319999999999993, 1, 0, 80, 71, 1, 79, eferything, 10, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0169999999999995, 1, 0, 80, 41, 1, 79, pregram, 7, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.0159999999999982, 1, 0, 80, 14, 1, 79, play, 4, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.0150000000000006, 1, 0, 80, 12, 1, 79, much, 4, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.0169999999999995, 1, 0, 80, 0, 1, 79, way, 3, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.0150000000000006, 1, 0, 80, 25, 1, 79, thenk, 5, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.4149999999999991, 1, 0, 80, 9, 1, 79, ous, 3, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.5820000000000007, 1, 0, 80, 61, 1, 79, bifferent, 9, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.6489999999999974, 1, 0, 80, 72, 1, 79, experience, 10, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.782, 1, 0, 80, 64, 1, 79, political, 9, right, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.6660000000000004, 1, 0, 80, 63, 1, 79, importent, 9, left, Lu, 001, 2020-09-04_12h53.33.663, lexical_decision_task, 3.0.0b12, 60
