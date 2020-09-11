@@ -1,0 +1,5 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 3.9269999999999996, left, 0, 1.011000000000001, 1, 0, 80, 60, 1, 79, different, 9, right, , 001, 2020-09-11_14h46.16.674, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.9619999999999997, 1, 0, 80, 24, 1, 79, think, 5, right, , 001, 2020-09-11_14h46.16.674, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.5650000000000013, 1, 0, 80, 13, 1, 79, mech, 4, left, , 001, 2020-09-11_14h46.16.674, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.4509999999999987, 1, 0, 80, 69, 1, 79, incluting, 9, left, , 001, 2020-09-11_14h46.16.674, lexical_decision_task, 3.0.0b12, 60
