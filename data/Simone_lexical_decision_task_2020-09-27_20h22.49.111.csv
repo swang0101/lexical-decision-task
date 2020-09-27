@@ -1,0 +1,2 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 10.268999999999998, right, 1, 1.006999999999998, 1, 0, 80, 62, 1, 79, important, 9, right, Simone, 001, 2020-09-27_20h22.49.111, lexical_decision_task, 3.0.0b12, 60
