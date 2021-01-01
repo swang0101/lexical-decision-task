@@ -1,0 +1,13 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 11.974, left, 0, 1.8480000000000025, 1, 0, 80, 38, 1, 79, system, 6, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.7149999999999999, 1, 0, 80, 15, 1, 79, ptay, 4, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.6489999999999938, 1, 0, 80, 6, 1, 79, for, 3, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.649000000000001, 1, 0, 80, 18, 1, 79, line, 4, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.6829999999999998, 1, 0, 80, 57, 1, 79, anythink, 8, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.7480000000000047, 1, 0, 80, 54, 1, 79, question, 8, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.5319999999999965, 1, 0, 80, 56, 1, 79, anything, 8, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 2.347999999999999, 1, 0, 80, 59, 1, 79, pesearch, 8, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.7820000000000036, 1, 0, 80, 7, 1, 79, fot, 3, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.5319999999999965, 1, 0, 80, 32, 1, 79, become, 6, right, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.4649999999999963, 1, 0, 80, 39, 1, 79, sistem, 6, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.0160000000000053, 1, 0, 80, 9, 1, 79, ous, 3, left, 2470, 001, 2021-01-01_12h58.06.836, lexical_decision_task, 3.0.0b12, 60
