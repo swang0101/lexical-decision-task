@@ -1,0 +1,15 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 7.2379999999999995, left, 1, 1.0160000000000018, 1, 0, 80, 19, 1, 79, lipe, 4, left, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7810000000000024, 1, 0, 80, 6, 1, 79, for, 3, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.0330000000000013, 1, 0, 80, 58, 1, 79, research, 8, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.666999999999998, 1, 0, 80, 22, 1, 79, about, 5, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.6500000000000021, 1, 0, 80, 40, 1, 79, program, 7, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.620000000000001, 1, 0, 80, 10, 1, 79, want, 4, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.7650000000000006, 1, 0, 80, 17, 1, 79, heur, 4, left, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7369999999999983, 1, 0, 80, 16, 1, 79, hour, 4, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.6599999999999966, 1, 0, 80, 0, 1, 79, way, 3, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7989999999999995, 1, 0, 80, 24, 1, 79, think, 5, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.698999999999998, 1, 0, 80, 48, 1, 79, believe, 7, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.8830000000000027, 1, 0, 80, 69, 1, 79, incluting, 9, left, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.666000000000004, 1, 0, 80, 30, 1, 79, should, 6, right, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.9349999999999952, 1, 0, 80, 21, 1, 79, theyr, 5, left, test, 001, 2021-01-19_14h23.28.666, lexical_decision_task, 3.0.0b12, 60
