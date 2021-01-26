@@ -1,0 +1,7 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 7.135999999999999, right, 1, 2.5470000000000006, 1, 0, 80, 24, 1, 79, think, 5, right, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.7729999999999997, 1, 0, 80, 45, 1, 79, bedween, 7, left, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.617000000000001, 1, 0, 80, 43, 1, 79, countey, 7, left, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.132999999999999, 1, 0, 80, 35, 1, 79, fector, 6, left, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.774000000000001, 1, 0, 80, 70, 1, 79, everything, 10, right, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.2270000000000003, 1, 0, 80, 4, 1, 79, new, 3, right, Gary, 001, 2021-01-26_00h35.02.042, lexical_decision_task, 3.0.0b12, 60
