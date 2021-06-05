@@ -1,0 +1,10 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 8.837, left, 1, 1.0160000000000018, 1, 0, 80, 59, 1, 79, pesearch, 8, left, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.381999999999998, 1, 0, 80, 25, 1, 79, thenk, 5, left, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 3.2989999999999995, 1, 0, 80, 79, 1, 79, bopulation, 10, left, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.0660000000000025, 1, 0, 80, 33, 1, 79, becone, 6, left, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.2510000000000048, 1, 0, 80, 68, 1, 79, including, 9, right, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.2169999999999987, 1, 0, 80, 42, 1, 79, country, 7, right, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.730000000000004, 1, 0, 80, 46, 1, 79, company, 7, right, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7299999999999969, 1, 0, 80, 58, 1, 79, research, 8, right, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.9990000000000023, 1, 0, 80, 78, 1, 79, population, 10, right, 0, 001, 2021-06-05_09h52.42.423, lexical_decision_task, 3.0.0b12, 60
