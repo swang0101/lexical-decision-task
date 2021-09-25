@@ -1,0 +1,12 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 7.482999999999999, right, 0, 1.0030000000000001, 1, 0, 80, 53, 1, 79, rememper, 8, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.9760000000000026, 1, 0, 80, 61, 1, 79, bifferent, 9, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.6019999999999968, 1, 0, 80, 27, 1, 79, whicb, 5, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.6260000000000012, 1, 0, 80, 3, 1, 79, anf, 3, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.5259999999999998, 1, 0, 80, 38, 1, 79, system, 6, right, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.155999999999999, 1, 0, 80, 45, 1, 79, bedween, 7, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.5350000000000001, 1, 0, 80, 65, 1, 79, pofitical, 9, left, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.4320000000000022, 1, 0, 80, 48, 1, 79, believe, 7, right, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.4080000000000013, 1, 0, 80, 10, 1, 79, want, 4, right, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.5459999999999994, 1, 0, 80, 26, 1, 79, which, 5, right, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.4840000000000018, 1, 0, 80, 70, 1, 79, everything, 10, right, mp, 001, 2021-09-26_03h04.25.396, lexical_decision_task, 3.0.0b12, 60
