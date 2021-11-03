@@ -1,0 +1,13 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 4.145, left, 0, 1.0109999999999992, 1, 0, 80, 36, 1, 79, decade, 6, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.466000000000001, 1, 0, 80, 79, 1, 79, bopulation, 10, left, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.968, 1, 0, 80, 60, 1, 79, different, 9, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.8350000000000009, 1, 0, 80, 34, 1, 79, factor, 6, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 5.154999999999998, 1, 0, 80, 12, 1, 79, much, 4, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7010000000000005, 1, 0, 80, 22, 1, 79, about, 5, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.6849999999999987, 1, 0, 80, 56, 1, 79, anything, 8, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7180000000000035, 1, 0, 80, 18, 1, 79, line, 4, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.8019999999999996, 1, 0, 80, 29, 1, 79, courd, 5, left, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.7680000000000007, 1, 0, 80, 49, 1, 79, beliefe, 7, left, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.7019999999999982, 1, 0, 80, 64, 1, 79, political, 9, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.6839999999999975, 1, 0, 80, 28, 1, 79, could, 5, right, 1000, 1, 2021-11-02_23h25.51.416, lexical_decision_task, 3.0.0b12, 60
