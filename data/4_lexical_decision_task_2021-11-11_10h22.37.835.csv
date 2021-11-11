@@ -1,0 +1,12 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 3.493999999999999, right, 0, 1.5140000000000011, 1, 0, 80, 41, 1, 79, pregram, 7, left, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.3210000000000015, 1, 0, 80, 50, 1, 79, business, 8, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.3370000000000015, 1, 0, 80, 36, 1, 79, decade, 6, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.2910000000000004, 1, 0, 80, 79, 1, 79, bopulation, 10, left, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.1900000000000013, 1, 0, 80, 74, 1, 79, especially, 10, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.0740000000000016, 1, 0, 80, 43, 1, 79, countey, 7, left, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 0, 1.232999999999997, 1, 0, 80, 53, 1, 79, rememper, 8, left, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.1410000000000018, 1, 0, 80, 58, 1, 79, research, 8, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.1069999999999993, 1, 0, 80, 38, 1, 79, system, 6, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.0330000000000013, 1, 0, 80, 30, 1, 79, should, 6, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.2579999999999991, 1, 0, 80, 0, 1, 79, way, 3, right, 4, 001, 2021-11-11_10h22.37.835, lexical_decision_task, 3.0.0b12, 60
