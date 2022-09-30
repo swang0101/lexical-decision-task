@@ -1,0 +1,8 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 11.980999999999998, right, 0, 1.0060000000000002, 1, 0, 80, 47, 1, 79, compane, 7, left, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.7290000000000028, 1, 0, 80, 22, 1, 79, about, 5, right, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.2830000000000013, 1, 0, 80, 33, 1, 79, becone, 6, left, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.8810000000000002, 1, 0, 80, 13, 1, 79, mech, 4, left, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.916999999999998, 1, 0, 80, 38, 1, 79, system, 6, right, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 6.048000000000002, 1, 0, 80, 62, 1, 79, important, 9, right, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.9149999999999991, 1, 0, 80, 2, 1, 79, and, 3, right, achraf, 001, 2022-09-30_11h35.40.750, lexical_decision_task, 3.0.0b12, 60
