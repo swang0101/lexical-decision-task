@@ -1,0 +1,7 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 9.507, left, 0, 2.939, 1, 0, 80, 18, 1, 79, line, 4, right, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 2.3150000000000013, 1, 0, 80, 64, 1, 79, political, 9, right, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.782, 1, 0, 80, 41, 1, 79, pregram, 7, left, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.0030000000000001, 1, 0, 80, 62, 1, 79, important, 9, right, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.0040000000000013, 1, 0, 80, 56, 1, 79, anything, 8, right, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0060000000000002, 1, 0, 80, 3, 1, 79, anf, 3, left, 001, 001, 2023-02-17_16h57.06.952, lexical_decision_task, 3.0.0b12, 60
