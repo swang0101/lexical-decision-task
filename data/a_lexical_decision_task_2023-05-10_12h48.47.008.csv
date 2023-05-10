@@ -1,0 +1,10 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 8.290000000000001, right, 1, 1.0090000000000003, 1, 0, 80, 20, 1, 79, their, 5, right, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2.5109999999999992, 1, 0, 80, 47, 1, 79, compane, 7, left, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.7669999999999995, 1, 0, 80, 39, 1, 79, sistem, 6, left, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.7809999999999988, 1, 0, 80, 21, 1, 79, theyr, 5, left, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, right, 1, 1.916999999999998, 1, 0, 80, 18, 1, 79, line, 4, right, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 2, 1, 0, 80, 73, 1, 79, exberience, 10, left, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.7650000000000006, 1, 0, 80, 30, 1, 79, should, 6, right, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.8979999999999961, 1, 0, 80, 75, 1, 79, especialty, 10, left, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.75, 1, 0, 80, 36, 1, 79, decade, 6, right, a, 001, 2023-05-10_12h48.47.008, lexical_decision_task, 3.0.0b12, 60
