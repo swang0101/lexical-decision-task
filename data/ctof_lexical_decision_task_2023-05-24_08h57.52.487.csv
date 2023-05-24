@@ -1,0 +1,12 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 5.981000000000002, left, 0, 1.0030000000000001, 1, 0, 80, 58, 1, 79, research, 8, right, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0120000000000005, 1, 0, 80, 65, 1, 79, pofitical, 9, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0009999999999977, 1, 0, 80, 71, 1, 79, eferything, 10, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0050000000000026, 1, 0, 80, 51, 1, 79, bussness, 8, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.0039999999999978, 1, 0, 80, 38, 1, 79, system, 6, right, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0079999999999956, 1, 0, 80, 37, 1, 79, secade, 6, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.006999999999998, 1, 0, 80, 31, 1, 79, shoule, 6, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.0090000000000003, 1, 0, 80, 26, 1, 79, which, 5, right, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 1, 1.0079999999999956, 1, 0, 80, 25, 1, 79, thenk, 5, left, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.0060000000000002, 1, 0, 80, 42, 1, 79, country, 7, right, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
+undefined, undefined, left, 0, 1.006999999999998, 1, 0, 80, 34, 1, 79, factor, 6, right, ctof, 001, 2023-05-24_08h57.52.487, lexical_decision_task, 3.0.0b12, 60
