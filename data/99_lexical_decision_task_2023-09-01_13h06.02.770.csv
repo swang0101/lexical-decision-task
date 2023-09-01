@@ -1,0 +1,2 @@
+key_resp_1.keys, key_resp_1.rt, response.keys, response.corr, response.rt, trials.thisRepN, trials.thisTrialN, trials.thisN, trials.thisIndex, trials.ran, trials.order, words, number_of_letters, corrAns, participant, session, date, expName, psychopyVersion, frameRate
+space, 3.38, right, 0, 3.0790000000000006, 1, 0, 80, 13, 1, 79, mech, 4, left, 99, 001, 2023-09-01_13h06.02.770, lexical_decision_task, 3.0.0b12, 60
